@@ -1,7 +1,6 @@
 {
   "name": "circleciexpress",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -23,5 +22,7 @@
     "express": "^4.16.4",
     "mocha": "^5.2.0",
     "node-mocks-http": "^1.7.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
